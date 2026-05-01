@@ -64,7 +64,8 @@ cd backend && npm run dev
 cd frontend && npm run dev
 ```
 
-Open `http://localhost:5173` in your browser.
+## 🌐 Live Demo
+https://task-manager-production-3d9e.up.railway.app
 
 ## 🌐 Railway Deployment
 1. Push to GitHub
