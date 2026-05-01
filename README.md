@@ -66,6 +66,7 @@ cd frontend && npm run dev
 
 ## 🌐 Live Demo
 https://task-manager-production-3d9e.up.railway.app
+🚀 Fully deployed on Railway with MongoDB Atlas
 
 ## 🌐 Railway Deployment
 1. Push to GitHub
@@ -88,4 +89,8 @@ https://task-manager-production-3d9e.up.railway.app
 | PUT/PATCH/DELETE | `/api/tasks/:id` | ✅ | Task update/delete |
 
 ## 👨‍💻 Author
+Akash Tiwary  
+B.E. CSE Student  
+
+
 Built with  using MongoDB, Express, React & Node.js
