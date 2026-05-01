@@ -87,4 +87,4 @@ Open `http://localhost:5173` in your browser.
 | PUT/PATCH/DELETE | `/api/tasks/:id` | ✅ | Task update/delete |
 
 ## 👨‍💻 Author
-Built with ❤️ using MongoDB, Express, React & Node.js
+Built with  using MongoDB, Express, React & Node.js
